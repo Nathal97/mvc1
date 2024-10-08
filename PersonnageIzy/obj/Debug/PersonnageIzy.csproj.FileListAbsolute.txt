@@ -1,0 +1,7 @@
+C:\Users\Nathalie\source\repos\PersonnageIzy\PersonnageIzy\bin\Debug\PersonnageIzy.exe.config
+C:\Users\Nathalie\source\repos\PersonnageIzy\PersonnageIzy\bin\Debug\PersonnageIzy.exe
+C:\Users\Nathalie\source\repos\PersonnageIzy\PersonnageIzy\bin\Debug\PersonnageIzy.pdb
+C:\Users\Nathalie\source\repos\PersonnageIzy\PersonnageIzy\obj\Debug\PersonnageIzy.csproj.AssemblyReference.cache
+C:\Users\Nathalie\source\repos\PersonnageIzy\PersonnageIzy\obj\Debug\PersonnageIzy.csproj.CoreCompileInputs.cache
+C:\Users\Nathalie\source\repos\PersonnageIzy\PersonnageIzy\obj\Debug\PersonnageIzy.exe
+C:\Users\Nathalie\source\repos\PersonnageIzy\PersonnageIzy\obj\Debug\PersonnageIzy.pdb
